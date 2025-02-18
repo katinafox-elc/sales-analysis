@@ -23,6 +23,10 @@ Your task is to import both datasets into Python, join them on a common column (
 2.  Join the two DataFrames on the `customer_id` column.
 3.  Calculate the total sales for each customer by aggregating the sales data and summing the relevant columns (e.g., quantity * unit price).
 4.  Display the results, showing the total sales for each customer.
+5.  Find the most profitable product.
+6.  Find the customer with the highest order total.
+7.  Find the product with the most sales.
+8.  Find the customer who has the most orders. 
 
 ### Submission Instructions
 
